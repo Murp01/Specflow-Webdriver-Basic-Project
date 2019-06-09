@@ -68,6 +68,9 @@
     <Compile Include="NUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Selenium Basics\PracticeExcercise01.cs" />
+    <Compile Include="Selenium Basics\PracticeExercise02.cs" />
+    <Compile Include="Selenium Basics\PracticeExercise03.cs" />
+    <Compile Include="Selenium Basics\PracticeExercise04.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
