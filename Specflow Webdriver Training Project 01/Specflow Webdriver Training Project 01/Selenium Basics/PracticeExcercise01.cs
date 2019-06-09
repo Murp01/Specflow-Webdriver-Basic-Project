@@ -44,7 +44,8 @@ namespace Specflow_Webdriver_Training_Project_01.Selenium_Basics
             //8. Print page source length to console
             Console.WriteLine("The page source length is : " + PageSourceLength);
 
-
+            //Close Browser
+            driver.Quit();
         }
     }
 }
