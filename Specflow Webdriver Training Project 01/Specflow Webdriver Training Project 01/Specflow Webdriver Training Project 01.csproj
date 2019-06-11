@@ -71,6 +71,7 @@
     <Compile Include="Selenium Basics\PracticeExercise02.cs" />
     <Compile Include="Selenium Basics\PracticeExercise03.cs" />
     <Compile Include="Selenium Basics\PracticeExercise04.cs" />
+    <Compile Include="Selenium Basics\PracticeExercise05.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
